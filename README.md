@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# ReactJS-Skill-Testing-Refactory.id
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Website Review
+
+page Home:
+![alt text](https://github.com/Rafiaqnanpebrian/RFCI-FE-RAFIAQNANPEBRIAN/blob/master/screenshoots/home.PNG)
+
+page Question 1:
+![alt text](https://github.com/Rafiaqnanpebrian/RFCI-FE-RAFIAQNANPEBRIAN/blob/master/screenshoots/question1.PNG)
+
+page Question 2:
+![alt text](https://github.com/Rafiaqnanpebrian/RFCI-FE-RAFIAQNANPEBRIAN/blob/master/screenshoots/question2.PNG)
 
 ## Available Scripts
 
